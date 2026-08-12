@@ -24,3 +24,22 @@ This repository contains my daily college lab work and practice programs for **D
   - Count the number of comparisons
   - Measure execution time
   - Save the sorted output to the corresponding output `.dat` file
+
+☑️ **Lab 4:** Quick Sort 
+
+- **Program 1:** Menu-driven Quick Sort using Divide and Conquer
+  - Read input from `inASCE.dat`, `inDESC.dat`, and `inRandom.dat`
+  - Count the number of comparisons
+  - Measure execution time
+  - Save the sorted output to the corresponding output `.dat` file
+
+☑️ **Lab 5:** Fractional Knapsack
+
+  - **Program 1:** Fractional Knapsack using Greedy Technique
+    - Implement greedy w.r.t. **Profit**
+    - Implement greedy w.r.t. **Weight**
+    - Implement greedy w.r.t. **Profit/Weight Ratio**
+    - Apply Merge Sort to sort the items according to the selected greedy strategy
+    - Calculate the maximum profit for each case
+    - Display the amount of each item taken
+    - Compare the maximum profit obtained from all 3 greedy cases
