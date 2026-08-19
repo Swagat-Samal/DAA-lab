@@ -43,3 +43,17 @@ This repository contains my daily college lab work and practice programs for **D
     - Calculate the maximum profit for each case
     - Display the amount of each item taken
     - Compare the maximum profit obtained from all 3 greedy cases
+
+☑️ **Lab 6: Greedy Technique**
+
+- **Program 1: Huffman Coding**
+  - Construct Huffman Tree using character frequencies
+  - Assign variable-length code words based on frequency of occurrence
+  - Display the In-order traversal of the Huffman Tree
+
+- **Program 2: Minimum Cost Spanning Tree using Kruskal's Algorithm**
+  - Read input from `inUnAdjMat.dat`
+  - Apply Kruskal's greedy technique
+  - Find the Minimum Cost Spanning Tree (MST)
+  - Display the cost adjacency matrix of the MST
+  - Display the total cost of the MST
