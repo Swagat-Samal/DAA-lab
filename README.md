@@ -57,3 +57,7 @@ This repository contains my daily college lab work and practice programs for **D
   - Find the Minimum Cost Spanning Tree (MST)
   - Display the cost adjacency matrix of the MST
   - Display the total cost of the MST
+
+☑️ **Lab 7: LCS**
+
+Find the **Longest Common Subsequence (LCS)** of two strings using Dynamic Programming and calculate its length.
