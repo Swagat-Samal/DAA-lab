@@ -60,4 +60,26 @@ This repository contains my daily college lab work and practice programs for **D
 
 ☑️ **Lab 7: LCS**
 
-Find the **Longest Common Subsequence (LCS)** of two strings using Dynamic Programming and calculate its length.
+- **Program 1: Find the **Longest Common Subsequence (LCS)** of two strings using Dynamic Programming and calculate its length.
+
+☑️ **Lab 8: Matrix Chain Multiplication and LCS**
+- **Program 1: Matrix Chain Multiplication
+
+Find the optimal parenthesization of a sequence of matrices using Dynamic Programming.
+
+The program displays:
+- M Table
+- S Table
+- Optimal Parenthesization
+- Minimum Scalar Multiplications
+
+ - **Program 2: Longest Common Subsequence (LCS)
+
+Find the Longest Common Subsequence between two sequences and determine the frequency of character T in the obtained LCS.
+
+The program:
+1. Reads two sequences of length n.
+2. Constructs the LCS Dynamic Programming table.
+3. Finds one valid LCS using backtracking.
+4. Counts the frequency of T in the LCS.
+5. Displays the LCS length and frequency of T.
