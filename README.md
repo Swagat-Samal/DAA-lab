@@ -60,7 +60,7 @@ This repository contains my daily college lab work and practice programs for **D
 
 ☑️ **Lab 7: LCS**
 
-**Program 1: Find the **Longest Common Subsequence (LCS)** of two strings using Dynamic Programming and calculate its length.
+**Program 1:** Find the **Longest Common Subsequence (LCS)** of two strings using Dynamic Programming and calculate its length.
 
 ☑️ **Lab 8: Matrix Chain Multiplication and LCS**
 
@@ -84,3 +84,8 @@ The program:
 3. Finds one valid LCS using backtracking.
 4. Counts the frequency of T in the LCS.
 5. Displays the LCS length and frequency of T.
+
+☑️ **Lab 9: – Floyd-Warshall Algorithm**
+
+1. Determine the length of the shortest path between **every pair of vertices**.
+2. Display the **intermediate vertices** on the shortest path between a given pair of vertices `(u, v)`.
